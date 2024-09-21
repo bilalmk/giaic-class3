@@ -1,3 +1,9 @@
+![Local Image](./layout-working.png "Layout working file")
+![Local Image](./layout-working-2.png "Layout working file")
+![Local Image](./layout-working-3.png "Layout working file")
+![Local Image](./route-structure.png "Route Structure")
+![Local Image](./url-structure.png "URL Structure")
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
